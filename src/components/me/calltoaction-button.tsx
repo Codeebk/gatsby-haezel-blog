@@ -4,7 +4,7 @@ import THEME from "../../theme"
 
 export default () => (
   <div style={{ textAlign: "center", marginTop: 40 }}>
-    <Link to={`#children`}>
+    <Link to={`#children`} style={{ backgroundImage: "none" }}>
       <span style={{ padding: 10 }}>
         <svg
           width={THEME.callToActionButton.width}
