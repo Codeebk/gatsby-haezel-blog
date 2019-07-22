@@ -7,6 +7,7 @@ import AboutButton from "../me/about-button"
 import SocialNetworks from "../me/social-networks"
 import CallToActionButton from "../me/calltoaction-button"
 import THEME from "../../theme"
+import { NONAME } from "dns";
 
 const Mobile = props => <Responsive {...props} maxWidth={767} />
 const Default = props => <Responsive {...props} minWidth={768} />
