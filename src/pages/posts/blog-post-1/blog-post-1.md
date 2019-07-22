@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Intro"
 date: "2019-07-22"
 description: "Learn about me! "
 cover: "postone.jpg"
