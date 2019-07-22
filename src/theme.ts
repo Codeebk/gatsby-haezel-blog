@@ -23,7 +23,7 @@ const THEME = {
       backgroundColor: "#eeeeee",
     },
     header: {
-      backgroundImage: "linear-gradient(20deg, #039be5, #26a69a)",
+      backgroundImage: "linear-gradient(20deg, #614385, #516395)",
     },
     aboutButton: {
       color: "white",
