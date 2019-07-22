@@ -1,27 +1,26 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Haezl`,
+    title: `Codee King`,
     author: {
-      name: "gatsby starter haezl",
-      image: "/img/me.png",
-      biography: "A lightweight, mobile first blog starter with infinite scroll \
-        and Material-UI design elements for Gatsby.",
+      name: "BLOG",
+      image: "/img/me5.jpg",
+      biography: "Personal blog by Codee King",
     },
     // for a list of supported networks take a look at https://jaketrent.github.io/react-social-icons/
     networks: [
-      "https://twitter.com/iamhaezl",
-      "https://github.com/haezl/gatsby-starter-haezl",
-      "mailto:mail@haezl.at",
+      "https://www.linkedin.com/in/codee-king",
+      "https://github.com/Codeebk",
+      "mailto:codee.king@gmail.com",
     ],
-    about: '<p>A lightweight, mobile first blog starter with infinite scroll \
-    and Material-UI design elements for \
-    <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a>. </p> \
-    <p>For a quick start with this starter checkout the \
-    <a href="/posts/get-started/get-started/">Get Started</a> guide. For \
-    an overview of plugins used in this starter have a look at \
-    <a href="/posts/gatsby-plugins/gatsby-plugins/">Plugins</a>. \
-    To see a markdown blog entry in action click \
-    <a href="/posts/markdown/markdown-test/">here</a>. \
+    about: '<p>Hi, my name is Codee. I am a full-stack developer currently based in Austin, Texas. \
+    The purpose of this blog is to share ideas and start conversations about technology. \
+     </p> \
+    <p>As a developer and dancer I use my deeply ingrained passion for mastering new techniques to bridge the gap between technology and art. \
+    I share my experiences and ideas here. \
+    \
+   \
+    \
+    \
     </p> \
     ',
   },
