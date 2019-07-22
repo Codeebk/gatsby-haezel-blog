@@ -3,7 +3,7 @@ module.exports = {
     title: `Codee King`,
     author: {
       name: "BLOG",
-      image: "/img/me5.jpg",
+      image: "/img/me6.jpg",
       biography: "Personal blog by Codee King",
     },
     // for a list of supported networks take a look at https://jaketrent.github.io/react-social-icons/
