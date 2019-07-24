@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    image: `/img/screenshot.png`,
     title: `Codee King`,
     author: {
       name: "BLOG",
