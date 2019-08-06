@@ -93,6 +93,7 @@ export default ({ children }) => (
         site {
           siteMetadata {
             title
+            image
             author {
               name
               image
